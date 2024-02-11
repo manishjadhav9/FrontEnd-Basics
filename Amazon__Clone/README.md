@@ -22,4 +22,4 @@ The project is structured using HTML, styled with CSS, and enhanced with JavaScr
 - **styles.css:** Defines the styles and layout of the webpage to replicate the Amazon design.
 
 - **app.js:** Implements interactive features such as dropdown menus, product filtering.
-
+<img src="https://github.com/manishjadhav9/FrontEnd-Basics/assets/96580022/5f46f63a-35cc-490e-b9da-b8cedd0aa994">
