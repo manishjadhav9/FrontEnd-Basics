@@ -1,4 +1,4 @@
-# Amazon Frontend Clone
+ Amazon Frontend Clone
 
 This project is a non-responsive clone of the Amazon frontend, specifically designed for long screen devices like laptops and PCs. It is built using HTML, CSS, and JavaScript.
 
